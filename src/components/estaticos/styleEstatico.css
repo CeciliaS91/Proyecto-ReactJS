@@ -1,0 +1,55 @@
+nav{
+    background-color: brown;
+    color: black;
+    padding: 15px;
+}
+
+ul{
+    list-style: none ;
+    display: flex;
+    justify-content: space-around ;
+    margin: 0 ;
+    align-items: center;
+}
+
+.link{
+    color: black;
+    text-decoration: none;
+    margin-right: 30px;
+    
+}
+
+footer{
+    background-color: brown;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.btnCart{
+    background-color: transparent;
+    border: none;
+}
+
+.fa-cart-shopping{
+    color: red;
+}
+
+h1{
+   text-align: center;
+   color: black;
+}
+
+h2{
+    color: black;
+}
+p{
+    color: black;
+}
+.btnLogin{
+    background-color: transparent;
+    border: none;
+}
+.fa-right-to-bracket{
+    color: gray;
+}
